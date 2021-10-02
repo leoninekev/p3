@@ -8,7 +8,7 @@ plotly
 seaborn
 pyro-ppl
 scipy
-pytorch
+torch
 torchvision
 ipywidgets
 statsmodels
