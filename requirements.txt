@@ -1,14 +1,14 @@
 jupyter-book
-ipython>=2.0
-matplotlib>=1.2.1
-numpy>=1.7.1
+ipython
+matplotlib
+numpy
 
-pandas==1.2.4
-plotly==4.14.3
-seaborn==0.11.1
-pyro-ppl==1.6.0
-scipy==1.6.3
-pytorch==1.9.0
-torchvision==0.2.2
-ipywidgets==7.6.3
-statsmodels==0.12.2
+pandas
+plotly
+seaborn
+pyro-ppl
+scipy
+pytorch
+torchvision
+ipywidgets
+statsmodels
